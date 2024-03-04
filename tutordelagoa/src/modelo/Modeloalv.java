@@ -3,6 +3,7 @@ import java.awt.*;
 public class Modeloalv extends Modelo {
     private int X=200;
     private int Y=100;
+    
     public Modeloalv(){
         super(10, 100, 100);
     }
